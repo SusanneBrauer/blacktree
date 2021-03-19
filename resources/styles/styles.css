@@ -1,0 +1,49 @@
+/**Colors**/
+/**
+header: #eded68
+links: #ffff00
+font: #eee
+background: #222222
+**/
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    background-color: #222222;
+    color: #eee;
+    font-family:'Libre Franklin', Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+h1 {
+    color: #eded68;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 2.25rem;
+    letter-spacing: 0.08rem;
+}
+
+h2 {
+    font-size: 1.125rem;
+    text-transform: uppercase;
+}
+
+header p {
+    color: #eded68;
+}
+
+header nav ul {
+    padding: 0;
+}
+
+header nav ul li {
+    list-style: none;
+    display: inline-block;  
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: #eee;
+}
