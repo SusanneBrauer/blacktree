@@ -11,6 +11,7 @@
 </head>
 <body>
     <header>
+        <video src="resources/video/New-BLACKTREE-Studio-Title-Snap.mp4" autoplay muted controls></video>
         <div class="container">
             <h1>Blacktree Studios</h1>
             <p>Recording, Mastering &amp; Video Production</p>
